@@ -1,1 +1,2 @@
 Sunmi UHF App
+商米手持设备RFID读取DEMO
